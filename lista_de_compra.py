@@ -2,6 +2,8 @@
 
 lista = []
 
+print('============ BEM VINDO A SUA LISTA DE COMPRAS ============')
+
 while True:
     print('Selecione uma opção abaixo:')
     opcao = input("[I]nserir  [A]pagar  [L]istar: ").lower()
